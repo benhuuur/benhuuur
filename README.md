@@ -1,4 +1,2 @@
-<div align="center">
-  <a href="https://github.com/davidluiz91">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benhuuur&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
+[![benhuuur GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=benhuuur&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/benhuuur/github-readme-stats#gh-dark-mode-only)
+[![benhuuur GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=benhuuur&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/benhuuur/github-readme-stats#gh-light-mode-only)
